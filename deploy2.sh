@@ -6,3 +6,4 @@ I am made
 New line added
 Jesu
 Jesus is lord
+love is blind
